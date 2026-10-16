@@ -1,5 +1,4 @@
-# CraftDesk · Minecraft 多服务器管理器
-#此README由Deepseek V4.1 Flash总结
+# CraftDesk · Minecraft 多服务器管理器（此README由Deepseek V4.1 Flash总结）
 一个深色三栏布局的桌面端 Minecraft 服务器管理器。界面参考现代 AI 桌面客户端的
 信息层级，重新组织为「图标栏 / 服务器列表 / 主工作区 / 右侧面板」，用于同时管理多个
 Minecraft 服务端。
